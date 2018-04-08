@@ -1,0 +1,15 @@
+asciiclient
+asciiclient.jar
+
+*.a
+*.class
+*.o
+*.pdf
+*~
+.*.sw?
+.DS_Store
+.classpath
+.idea
+.metadata
+.project
+deps/*.so
